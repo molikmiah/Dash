@@ -1,3 +1,4 @@
+![Dash Browser Logo](https://avatars2.githubusercontent.com/u/26027704?v=3&s=75 "Dash Browser")  
 # Dash
 This is the main repository for the Dash open-source web browser. This is a work in-progress project and is not ready for consumer use yet.
 Dash is a web browser built for simplicity, performance and the modern web.
